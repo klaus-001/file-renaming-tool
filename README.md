@@ -11,7 +11,7 @@ The **File Renaming Tool** is a user-friendly application designed to efficientl
 
 #### Unstaged Area
 
-TThe Unstaged Area displays all files from the selected directory once it has been loaded. This area allows users to view and browse through the complete list of available files before making any selections for renaming.
+The Unstaged Area displays all files from the selected directory once it has been loaded. This area allows users to view and browse through the complete list of available files before making any selections for renaming.
 
 #### Staged Area
 
