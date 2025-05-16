@@ -70,26 +70,29 @@ class FileRenamingTool(QMainWindow):
         main_layout = QVBoxLayout()
 
         hbox1 = QHBoxLayout()
-        hbox2 = QHBoxLayout()
+        hbox2= QHBoxLayout()
         hbox3 = QHBoxLayout()
+        hbox4 = QHBoxLayout()
 
         hbox1.addWidget(self.filter_line)
         hbox1.addWidget(self.filter_button)
 
-        hbox2.addWidget(self.add_button)
-        hbox2.addWidget(self.remove_button)
+        hbox2.addWidget(self.stage_label, 80)
+        hbox2.addWidget(self.option_box, 20)
 
-        hbox3.addWidget(self.option_box)
-        hbox3.addWidget(self.edit_line)
-        hbox3.addWidget(self.apply_button)
+        hbox3.addWidget(self.add_button)
+        hbox3.addWidget(self.remove_button)
+
+        hbox4.addWidget(self.edit_line)
+        hbox4.addWidget(self.apply_button)
 
         main_layout.addLayout(hbox1)
-        main_layout.addWidget(self.stage_label)
+        main_layout.addLayout(hbox2)
         main_layout.addWidget(self.select_view)
         main_layout.addWidget(self.unstage_label)
         main_layout.addWidget(self.list_view)
-        main_layout.addLayout(hbox2)
         main_layout.addLayout(hbox3)
+        main_layout.addLayout(hbox4)
 
         self.central_widget.setLayout(main_layout)
 
