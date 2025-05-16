@@ -3,11 +3,6 @@
 The **File Renaming Tool** is a user-friendly application designed to efficiently rename single or multiple files within a selected directory. Built with Python and PyQt5, the tool offers a clean, intuitive interface that simplifies the file renaming process for users of all experience levels. Whether you're batch-renaming hundreds of files or just making quick adjustments to a few, this tool streamlines the task with ease and precision.
 
 ## Features
-- Unstaged Area
-- Staged Area
-- Filtering and Selection
-- Renaming Options
-- Single or Multiple Filenames Edit
 
 #### Unstaged Area
 
