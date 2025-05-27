@@ -1,6 +1,6 @@
 # File Renaming Tool
 
-![File Renaming Tool UI](img/UI.png)
+<img src="img/UI.png" alt="File Renaming Tool UI" width="300" />
 
 ## Introduction
 
