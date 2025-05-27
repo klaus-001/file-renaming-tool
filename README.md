@@ -1,6 +1,6 @@
 # File Renaming Tool
 
-<img src="img/UI.png" alt="File Renaming Tool UI" width="300" />
+<img src="img/UI.png" alt="File Renaming Tool UI" width="400" />
 
 ## Introduction
 
@@ -14,7 +14,7 @@ The Unstaged Area displays all files from the selected directory once it has bee
 
 #### Staged Area
 
-The Staged Area contains files that the user has specifically selected for renaming. Files are moved here from the Unstaged Area, but no changes are applied or reflected while in this area—it simply acts as a holding zone for files to be edited.
+The Staged Area contains files that the user has specifically selected for renaming. Files are moved here from the Unstaged Area, but no changes are applied or reflected while in this area — it simply acts as a holding zone for files to be edited.
 
 #### Filtering and Selection
 
